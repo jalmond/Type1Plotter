@@ -81,7 +81,7 @@ void Type1_SignalComp(bool plot_sub_dirs=false){
   // ============================================================================                                
   // ********* USER MOD *********
   TString _filter= "*";  // * means all hists in files are plotted
-  TString obj_type="TH1_TH2";
+  TString obj_type="";
   // ********* USER MOD *********                                                                                    //_filter= "50gev";  // only make plots with this string in
   
   // ============================================================================
